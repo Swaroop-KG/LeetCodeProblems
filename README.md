@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0067-add-binary) |
 ## Sliding Window
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
