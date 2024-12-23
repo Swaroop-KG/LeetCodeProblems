@@ -5,7 +5,7 @@ class Solution {
             int indexofFirst= s.indexOf(s.charAt(right),left);
 
             if(indexofFirst!=right){
-                left=indexofFirst+1;
+                left=indexofFirst+1 ;
             }
             maxlength=Math.max(maxlength,right-left+1);
         }
