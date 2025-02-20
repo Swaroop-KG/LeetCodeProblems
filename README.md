@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1694-make-sum-divisible-by-p) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
