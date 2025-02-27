@@ -14,7 +14,7 @@ class Solution {
                 prev = temp;
                 current = next;
                 count++;
-            } while (start != current);
+            } while (start != current) ;
     }
 }
 }
