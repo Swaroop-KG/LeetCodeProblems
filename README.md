@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0283-move-zeroes) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0966-binary-subarrays-with-sum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1256-rank-transform-of-an-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0169-majority-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Dynamic Programming
 |  |
