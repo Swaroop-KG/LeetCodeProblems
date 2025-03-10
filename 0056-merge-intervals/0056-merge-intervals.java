@@ -16,9 +16,10 @@ class Solution {
             
             if (currentEnd >= nextStart) { 
                 currentInterval[1] = Math.max(currentEnd, nextEnd);
+                
             } else { 
                 currentInterval = interval;
-                merged.add(currentInterval);
+                merged.add(currentInterval) ;
             }
         }
         
