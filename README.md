@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -184,5 +186,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
