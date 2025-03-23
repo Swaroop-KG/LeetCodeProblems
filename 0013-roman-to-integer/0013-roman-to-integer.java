@@ -25,6 +25,7 @@ class Solution {
                 case 'M':
                     num=1000;
                     break;
+                    
             }
             if(4*num<ans)
                 ans -= num;
