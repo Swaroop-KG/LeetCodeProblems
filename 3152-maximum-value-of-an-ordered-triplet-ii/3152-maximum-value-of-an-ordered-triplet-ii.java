@@ -9,6 +9,6 @@ class Solution {
             difference = Math.max(difference,maximum-nums[i]);
 
         }
-        return result;
+         return result>0?result:0;
     }
 }
