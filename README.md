@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Hash Table
 |  |
