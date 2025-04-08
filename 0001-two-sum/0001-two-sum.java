@@ -7,7 +7,7 @@ class Solution {
                 }
             }
         }
-    return nums ;
+    return nums;
     }
 
     
