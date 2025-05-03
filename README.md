@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0645-set-mismatch) |
 | [0966-binary-subarrays-with-sum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1256-rank-transform-of-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0645-set-mismatch) |
 | [0966-binary-subarrays-with-sum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
