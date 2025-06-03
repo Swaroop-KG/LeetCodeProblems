@@ -9,7 +9,7 @@ class Solution {
         while(n>0){
             int d=n%10;
              reverse =reverse*10 +d;
-            n=n/10 ;
+            n=n/10;
            
 
         }
