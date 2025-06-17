@@ -1,37 +1,26 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        int pre = 0,l = 0,r = 0,sum = 0,res = 0;
-        boolean isPre = true;
-        while(r < nums.length) {
-            if(nums[r] == 1) 
-                isPre = false;
-
-            sum += nums[r];
-            while(sum > goal && l < r) {
-                pre = 0;
-                sum -= nums[l];
-                l++;
-                if(sum == goal && l < r) {
-                    while(nums[l] == 0) {
-                        pre++;
-                        l++;
-                    }
-                }
-                if(l == r) {
-                    isPre = true;
-                }
-            }
-            
-            if (sum == goal) {
-                res += pre + 1;
-            }
-            if(isPre && nums[r] == 0) {
-                pre++;
-            }
-            r++;
-            System.out.println(res);
-        }
+       
+        return atMost(nums,goal)-atMost(nums,goal-1);
+    }
+    private int atMost(int[] nums, int goal) {
         
-        return res;
+        if(goal<0){
+            return 0;
+        }
+         int l=0;
+        int r=0;
+        int sum=0;
+        int count=0;
+        while(r<nums.length){
+          sum+=nums[r];
+           while(sum>goal){
+             sum=sum-nums[l];
+             l=l+1;
+           }
+           count=count+(r-l+1);
+           r=r+1;
+        }
+        return count;
     }
 }
