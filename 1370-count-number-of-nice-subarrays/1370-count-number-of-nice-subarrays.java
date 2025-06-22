@@ -16,7 +16,7 @@ class Solution {
           sum+=(nums[r]%2);
            while(sum>goal){
              sum=sum-(nums[l]%2);
-             l=l+1;
+             l=l+1 ;
            }
            count=count+(r-l+1);
            r=r+1;
