@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0890-lemonade-change) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
