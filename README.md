@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0645-set-mismatch) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 ## Memoization
