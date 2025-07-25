@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## String Matching
 |  |
 | ------- |
