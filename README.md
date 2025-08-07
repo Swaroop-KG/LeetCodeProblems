@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Trie
 |  |
@@ -348,4 +351,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
