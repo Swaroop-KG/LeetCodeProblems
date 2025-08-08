@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
