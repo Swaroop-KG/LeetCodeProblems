@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
+| [3463-alternating-groups-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3463-alternating-groups-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3463-alternating-groups-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3463-alternating-groups-i) |
 ## Linked List
 |  |
 | ------- |
