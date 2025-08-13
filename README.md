@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0067-add-binary) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
