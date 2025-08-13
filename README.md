@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0242-valid-anagram) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0189-rotate-array) |
