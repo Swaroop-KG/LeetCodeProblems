@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0268-missing-number) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
