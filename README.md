@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0908-middle-of-the-linked-list) |
