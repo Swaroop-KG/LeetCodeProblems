@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0202-happy-number) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0908-middle-of-the-linked-list) |
 ## Math
