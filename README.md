@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
