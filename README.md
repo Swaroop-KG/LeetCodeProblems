@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0567-permutation-in-string) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 ## Memoization
