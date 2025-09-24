@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0229-majority-element-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
