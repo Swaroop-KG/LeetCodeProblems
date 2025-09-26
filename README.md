@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0258-add-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -497,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0100-same-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
