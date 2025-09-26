@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0739-daily-temperatures) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0890-lemonade-change) |
 ## Counting
 |  |
