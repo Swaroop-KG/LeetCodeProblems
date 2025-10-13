@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0268-missing-number) |
