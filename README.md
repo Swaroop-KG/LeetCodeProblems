@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3463-alternating-groups-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3463-alternating-groups-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
