@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0890-lemonade-change) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
