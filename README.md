@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1694-make-sum-divisible-by-p) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2169-simple-bank-system](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2169-simple-bank-system) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1694-make-sum-divisible-by-p) |
+| [2169-simple-bank-system](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2169-simple-bank-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2169-simple-bank-system](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0232-implement-queue-using-stacks) |
+| [2169-simple-bank-system](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2169-simple-bank-system) |
 ## Binary Search Tree
 |  |
 | ------- |
