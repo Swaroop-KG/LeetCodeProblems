@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
