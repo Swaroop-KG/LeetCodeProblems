@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
