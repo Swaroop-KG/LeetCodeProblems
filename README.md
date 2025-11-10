@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3463-alternating-groups-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3463-alternating-groups-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1694-make-sum-divisible-by-p) |
 | [2169-simple-bank-system](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2169-simple-bank-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0890-lemonade-change) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting
 |  |
 | ------- |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String Matching
 |  |
 | ------- |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0739-daily-temperatures) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Union Find
 |  |
 | ------- |
