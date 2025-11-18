@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0890-lemonade-change) |
+| [0944-smallest-range-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0944-smallest-range-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1256-rank-transform-of-an-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0944-smallest-range-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
