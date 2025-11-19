@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2169-simple-bank-system) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1694-make-sum-divisible-by-p) |
 | [2169-simple-bank-system](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2169-simple-bank-system](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sorting
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Swaroop-KG/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Greedy
 |  |
 | ------- |
